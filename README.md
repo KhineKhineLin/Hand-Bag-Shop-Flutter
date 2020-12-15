@@ -1,4 +1,4 @@
-# shop
+# Hand Bag Shop Flutter
 
 A new Flutter project.
 
